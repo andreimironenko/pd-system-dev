@@ -4,10 +4,6 @@ recipes/linux/linux-omap3-z3-2.6.37-git
 recipes/linux/linux-omap3-evm-2.6.37-git
 recipes/rr-rtsp-server/rr-rtsp-server-git
 recipes/ubl/ubl-git
-recipes/linux/linux-davinci-htc-2.6.32.17-git
-recipes/u-boot/u-boot-davinci-htc-git
-recipes/linux/linux-omap3-ht5-2.6.37-git
-recipes/u-boot/u-boot-omap3-ht5-git
 recipes/system-configs/system-configs-git
 recipes/system-security/system-security-git
 recipes/system-update/system-update-git
